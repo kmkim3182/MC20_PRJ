@@ -25,13 +25,13 @@ Performance : 49.8 img/sec (128 images)
 
 ## C : 4 GPUs with CPUS in a single node
 
-1. B + MPI Parallelization
+1. B + MPI Parallelization ( a single processor corresponding to a single GPU)
 
 Performance : 159.4 img/sec (256 images)
 
 ## D : 16 GPUs with CPUs in 4 nodes
 
-1. B + MPI Parallelization
+1. B + MPI Parallelization ( a single processor corresponding to a single GPU)
 
 Performance : 258.5 img/sec (512 images)
 * Scalability issue
