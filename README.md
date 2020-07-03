@@ -34,3 +34,4 @@ Performance : 159.4 img/sec (256 images)
 1. B + MPI Parallelization
 
 Performance : 258.5 img/sec (512 images)
+* Scalability issue
