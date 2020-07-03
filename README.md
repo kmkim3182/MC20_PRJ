@@ -1,10 +1,10 @@
 # MC20_PRJ
 SNU Muticore Computing 2020 Spring Final Term Project
 
-# A
+## A : CPUs in a single node
 
-# B
+## B : A single GPU with CPUs in a single node
 
-# C
+## C : 4 GPUs with CPUS in a single node
 
-# D
+## D : 16 GPUs with CPUs in 4 nodes
