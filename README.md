@@ -21,10 +21,16 @@ Performance : 4.0 img/sec (64 images)
 
 4. Elimination of branch divergence.
 
+Performance : 49.8 img/sec (128 images)
+
 ## C : 4 GPUs with CPUS in a single node
 
-B + MPI Parallelization
+1. B + MPI Parallelization
+
+Performance : 159.4 img/sec (256 images)
 
 ## D : 16 GPUs with CPUs in 4 nodes
 
-B + MPI Parallelization
+1. B + MPI Parallelization
+
+Performance : 258.5 img/sec (512 images)
