@@ -1,0 +1,562 @@
+Running img 16
+Out of 3145728 pixels...
+Max of differences: 1
+Sum of differences: 5616
+Error rate: 0.001785 / pix
+Running img 17
+Out of 3342336 pixels...
+Max of differences: 1
+Sum of differences: 5072
+Error rate: 0.001518 / pix
+Running img 18
+Out of 3538944 pixels...
+Max of differences: 1
+Sum of differences: 5187
+Error rate: 0.001466 / pix
+Running img 19
+Out of 3735552 pixels...
+Max of differences: 1
+Sum of differences: 7424
+Error rate: 0.001987 / pix
+Running img 20
+Out of 3932160 pixels...
+Max of differences: 1
+Sum of differences: 7208
+Error rate: 0.001833 / pix
+Running img 21
+Out of 4128768 pixels...
+Max of differences: 1
+Sum of differences: 8267
+Error rate: 0.002002 / pix
+Running img 22
+Out of 4325376 pixels...
+Max of differences: 1
+Sum of differences: 9353
+Error rate: 0.002162 / pix
+Running img 23
+Out of 4521984 pixels...
+Max of differences: 1
+Sum of differences: 7935
+Error rate: 0.001755 / pix
+Running img 24
+Out of 4718592 pixels...
+Max of differences: 1
+Sum of differences: 10738
+Error rate: 0.002276 / pix
+Running img 25
+Out of 4915200 pixels...
+Max of differences: 1
+Sum of differences: 8943
+Error rate: 0.001819 / pix
+Running img 26
+Out of 5111808 pixels...
+Max of differences: 1
+Sum of differences: 9458
+Error rate: 0.001850 / pix
+Running img 27
+Out of 5308416 pixels...
+Max of differences: 1
+Sum of differences: 9296
+Error rate: 0.001751 / pix
+Running img 28
+Out of 5505024 pixels...
+Max of differences: 1
+Sum of differences: 9038
+Error rate: 0.001642 / pix
+Running img 29
+Out of 5701632 pixels...
+Max of differences: 1
+Sum of differences: 10223
+Error rate: 0.001793 / pix
+Running img 30
+Out of 5898240 pixels...
+Max of differences: 1
+Sum of differences: 10994
+Error rate: 0.001864 / pix
+Running img 31
+Out of 6094848 pixels...
+Max of differences: 1
+Sum of differences: 11268
+Error rate: 0.001849 / pix
+Running img 32
+Out of 6291456 pixels...
+Max of differences: 1
+Sum of differences: 12060
+Error rate: 0.001917 / pix
+Running img 33
+Out of 6488064 pixels...
+Max of differences: 1
+Sum of differences: 11610
+Error rate: 0.001789 / pix
+Running img 34
+Out of 6684672 pixels...
+Max of differences: 1
+Sum of differences: 13170
+Error rate: 0.001970 / pix
+Running img 35
+Out of 6881280 pixels...
+Max of differences: 1
+Sum of differences: 11457
+Error rate: 0.001665 / pix
+Running img 36
+Out of 7077888 pixels...
+Max of differences: 1
+Sum of differences: 13051
+Error rate: 0.001844 / pix
+Running img 37
+Out of 7274496 pixels...
+Max of differences: 1
+Sum of differences: 11066
+Error rate: 0.001521 / pix
+Running img 38
+Out of 7471104 pixels...
+Max of differences: 1
+Sum of differences: 12371
+Error rate: 0.001656 / pix
+Running img 39
+Out of 7667712 pixels...
+Max of differences: 1
+Sum of differences: 14160
+Error rate: 0.001847 / pix
+Running img 40
+Out of 7864320 pixels...
+Max of differences: 1
+Sum of differences: 13585
+Error rate: 0.001727 / pix
+Running img 41
+Out of 8060928 pixels...
+Max of differences: 1
+Sum of differences: 12997
+Error rate: 0.001612 / pix
+Running img 42
+Out of 8257536 pixels...
+Max of differences: 1
+Sum of differences: 14369
+Error rate: 0.001740 / pix
+Running img 43
+Out of 8454144 pixels...
+Max of differences: 1
+Sum of differences: 15864
+Error rate: 0.001876 / pix
+Running img 44
+Out of 8650752 pixels...
+Max of differences: 1
+Sum of differences: 16960
+Error rate: 0.001961 / pix
+Running img 45
+Out of 8847360 pixels...
+Max of differences: 1
+Sum of differences: 13656
+Error rate: 0.001544 / pix
+Running img 46
+Out of 9043968 pixels...
+Max of differences: 1
+Sum of differences: 16791
+Error rate: 0.001857 / pix
+Running img 47
+Out of 9240576 pixels...
+Max of differences: 1
+Sum of differences: 18035
+Error rate: 0.001952 / pix
+Running img 48
+Out of 9437184 pixels...
+Max of differences: 1
+Sum of differences: 15159
+Error rate: 0.001606 / pix
+Running img 49
+Out of 9633792 pixels...
+Max of differences: 1
+Sum of differences: 21327
+Error rate: 0.002214 / pix
+Running img 50
+Size should be the same. (4196720 != 9830400)
+Running img 51
+Out of 10027008 pixels...
+Max of differences: 1
+Sum of differences: 20263
+Error rate: 0.002021 / pix
+Running img 52
+Out of 10223616 pixels...
+Max of differences: 1
+Sum of differences: 18709
+Error rate: 0.001830 / pix
+Running img 53
+Out of 10420224 pixels...
+Max of differences: 1
+Sum of differences: 17555
+Error rate: 0.001685 / pix
+Running img 54
+Out of 10616832 pixels...
+Max of differences: 1
+Sum of differences: 20098
+Error rate: 0.001893 / pix
+Running img 55
+Out of 10813440 pixels...
+Max of differences: 1
+Sum of differences: 21934
+Error rate: 0.002028 / pix
+Running img 56
+Out of 11010048 pixels...
+Max of differences: 1
+Sum of differences: 19488
+Error rate: 0.001770 / pix
+Running img 57
+Out of 11206656 pixels...
+Max of differences: 1
+Sum of differences: 21428
+Error rate: 0.001912 / pix
+Running img 58
+Out of 11403264 pixels...
+Max of differences: 1
+Sum of differences: 19363
+Error rate: 0.001698 / pix
+Running img 59
+Out of 11599872 pixels...
+Max of differences: 1
+Sum of differences: 22982
+Error rate: 0.001981 / pix
+Running img 60
+Out of 11796480 pixels...
+Max of differences: 1
+Sum of differences: 21211
+Error rate: 0.001798 / pix
+Running img 61
+Out of 11993088 pixels...
+Max of differences: 1
+Sum of differences: 20378
+Error rate: 0.001699 / pix
+Running img 62
+Out of 12189696 pixels...
+Max of differences: 1
+Sum of differences: 22516
+Error rate: 0.001847 / pix
+Running img 63
+Out of 12386304 pixels...
+Max of differences: 1
+Sum of differences: 20601
+Error rate: 0.001663 / pix
+Running img 64
+Out of 12582912 pixels...
+Max of differences: 1
+Sum of differences: 23319
+Error rate: 0.001853 / pix
+Running img 65
+Out of 12779520 pixels...
+Max of differences: 1
+Sum of differences: 22379
+Error rate: 0.001751 / pix
+Running img 66
+Out of 12976128 pixels...
+Max of differences: 1
+Sum of differences: 21893
+Error rate: 0.001687 / pix
+Running img 67
+Out of 13172736 pixels...
+Max of differences: 1
+Sum of differences: 26583
+Error rate: 0.002018 / pix
+Running img 68
+Out of 13369344 pixels...
+Max of differences: 1
+Sum of differences: 23264
+Error rate: 0.001740 / pix
+Running img 69
+Out of 13565952 pixels...
+Max of differences: 1
+Sum of differences: 27499
+Error rate: 0.002027 / pix
+Running img 70
+Out of 13762560 pixels...
+Max of differences: 1
+Sum of differences: 27596
+Error rate: 0.002005 / pix
+Running img 71
+Out of 13959168 pixels...
+Max of differences: 1
+Sum of differences: 23254
+Error rate: 0.001666 / pix
+Running img 72
+Out of 14155776 pixels...
+Max of differences: 1
+Sum of differences: 24362
+Error rate: 0.001721 / pix
+Running img 73
+Out of 14352384 pixels...
+Max of differences: 1
+Sum of differences: 26604
+Error rate: 0.001854 / pix
+Running img 74
+Out of 14548992 pixels...
+Max of differences: 1
+Sum of differences: 26605
+Error rate: 0.001829 / pix
+Running img 75
+Out of 14745600 pixels...
+Max of differences: 1
+Sum of differences: 26737
+Error rate: 0.001813 / pix
+Running img 76
+Out of 14942208 pixels...
+Max of differences: 1
+Sum of differences: 24767
+Error rate: 0.001658 / pix
+Running img 77
+Out of 15138816 pixels...
+Max of differences: 1
+Sum of differences: 27478
+Error rate: 0.001815 / pix
+Running img 78
+Out of 15335424 pixels...
+Max of differences: 1
+Sum of differences: 29121
+Error rate: 0.001899 / pix
+Running img 79
+Out of 15532032 pixels...
+Max of differences: 1
+Sum of differences: 29780
+Error rate: 0.001917 / pix
+Running img 80
+Out of 15728640 pixels...
+Max of differences: 1
+Sum of differences: 28664
+Error rate: 0.001822 / pix
+Running img 81
+Out of 15925248 pixels...
+Max of differences: 1
+Sum of differences: 29137
+Error rate: 0.001830 / pix
+Running img 82
+Out of 16121856 pixels...
+Max of differences: 1
+Sum of differences: 30526
+Error rate: 0.001893 / pix
+Running img 83
+Out of 16318464 pixels...
+Max of differences: 1
+Sum of differences: 31404
+Error rate: 0.001924 / pix
+Running img 84
+Out of 16515072 pixels...
+Max of differences: 1
+Sum of differences: 32158
+Error rate: 0.001947 / pix
+Running img 85
+Out of 16711680 pixels...
+Max of differences: 1
+Sum of differences: 32111
+Error rate: 0.001921 / pix
+Running img 86
+Out of 16908288 pixels...
+Max of differences: 1
+Sum of differences: 26126
+Error rate: 0.001545 / pix
+Running img 87
+Out of 17104896 pixels...
+Max of differences: 1
+Sum of differences: 30816
+Error rate: 0.001802 / pix
+Running img 88
+Out of 17301504 pixels...
+Max of differences: 1
+Sum of differences: 31080
+Error rate: 0.001796 / pix
+Running img 89
+Out of 17498112 pixels...
+Max of differences: 1
+Sum of differences: 33008
+Error rate: 0.001886 / pix
+Running img 90
+Out of 17694720 pixels...
+Max of differences: 1
+Sum of differences: 29714
+Error rate: 0.001679 / pix
+Running img 91
+Out of 17891328 pixels...
+Max of differences: 1
+Sum of differences: 29372
+Error rate: 0.001642 / pix
+Running img 92
+Out of 18087936 pixels...
+Max of differences: 1
+Sum of differences: 33101
+Error rate: 0.001830 / pix
+Running img 93
+Out of 18284544 pixels...
+Max of differences: 1
+Sum of differences: 34234
+Error rate: 0.001872 / pix
+Running img 94
+Out of 18481152 pixels...
+Max of differences: 1
+Sum of differences: 32115
+Error rate: 0.001738 / pix
+Running img 95
+Out of 18677760 pixels...
+Max of differences: 1
+Sum of differences: 33956
+Error rate: 0.001818 / pix
+Running img 96
+Out of 18874368 pixels...
+Max of differences: 1
+Sum of differences: 33946
+Error rate: 0.001799 / pix
+Running img 97
+Out of 19070976 pixels...
+Max of differences: 1
+Sum of differences: 31967
+Error rate: 0.001676 / pix
+Running img 98
+Out of 19267584 pixels...
+Max of differences: 1
+Sum of differences: 33254
+Error rate: 0.001726 / pix
+Running img 99
+Out of 19464192 pixels...
+Max of differences: 1
+Sum of differences: 33949
+Error rate: 0.001744 / pix
+Running img 100
+Out of 19660800 pixels...
+Max of differences: 1
+Sum of differences: 36855
+Error rate: 0.001875 / pix
+Running img 101
+Out of 19857408 pixels...
+Max of differences: 1
+Sum of differences: 40606
+Error rate: 0.002045 / pix
+Running img 102
+Out of 20054016 pixels...
+Max of differences: 1
+Sum of differences: 36565
+Error rate: 0.001823 / pix
+Running img 103
+Out of 20250624 pixels...
+Max of differences: 1
+Sum of differences: 40244
+Error rate: 0.001987 / pix
+Running img 104
+Out of 20447232 pixels...
+Max of differences: 1
+Sum of differences: 34918
+Error rate: 0.001708 / pix
+Running img 105
+Out of 20643840 pixels...
+Max of differences: 1
+Sum of differences: 41375
+Error rate: 0.002004 / pix
+Running img 106
+Out of 20840448 pixels...
+Max of differences: 1
+Sum of differences: 37269
+Error rate: 0.001788 / pix
+Running img 107
+Out of 21037056 pixels...
+Max of differences: 1
+Sum of differences: 35454
+Error rate: 0.001685 / pix
+Running img 108
+Out of 21233664 pixels...
+Max of differences: 1
+Sum of differences: 37676
+Error rate: 0.001774 / pix
+Running img 109
+Out of 21430272 pixels...
+Max of differences: 1
+Sum of differences: 39254
+Error rate: 0.001832 / pix
+Running img 110
+Out of 21626880 pixels...
+Max of differences: 1
+Sum of differences: 42581
+Error rate: 0.001969 / pix
+Running img 111
+Out of 21823488 pixels...
+Max of differences: 1
+Sum of differences: 39544
+Error rate: 0.001812 / pix
+Running img 112
+Out of 22020096 pixels...
+Max of differences: 1
+Sum of differences: 40283
+Error rate: 0.001829 / pix
+Running img 113
+Out of 22216704 pixels...
+Max of differences: 1
+Sum of differences: 41532
+Error rate: 0.001869 / pix
+Running img 114
+Out of 22413312 pixels...
+Max of differences: 1
+Sum of differences: 42040
+Error rate: 0.001876 / pix
+Running img 115
+Out of 22609920 pixels...
+Max of differences: 1
+Sum of differences: 42708
+Error rate: 0.001889 / pix
+Running img 116
+Out of 22806528 pixels...
+Max of differences: 1
+Sum of differences: 38122
+Error rate: 0.001672 / pix
+Running img 117
+Out of 23003136 pixels...
+Max of differences: 1
+Sum of differences: 38492
+Error rate: 0.001673 / pix
+Running img 118
+Out of 23199744 pixels...
+Max of differences: 1
+Sum of differences: 41110
+Error rate: 0.001772 / pix
+Running img 119
+Out of 23396352 pixels...
+Max of differences: 1
+Sum of differences: 44821
+Error rate: 0.001916 / pix
+Running img 120
+Out of 23592960 pixels...
+Max of differences: 1
+Sum of differences: 45684
+Error rate: 0.001936 / pix
+Running img 121
+Out of 23789568 pixels...
+Max of differences: 1
+Sum of differences: 44254
+Error rate: 0.001860 / pix
+Running img 122
+Out of 23986176 pixels...
+Max of differences: 1
+Sum of differences: 43151
+Error rate: 0.001799 / pix
+Running img 123
+Out of 24182784 pixels...
+Max of differences: 1
+Sum of differences: 44891
+Error rate: 0.001856 / pix
+Running img 124
+Out of 24379392 pixels...
+Max of differences: 1
+Sum of differences: 42552
+Error rate: 0.001745 / pix
+Running img 125
+Out of 24576000 pixels...
+Max of differences: 1
+Sum of differences: 42365
+Error rate: 0.001724 / pix
+Running img 126
+Out of 24772608 pixels...
+Max of differences: 1
+Sum of differences: 44063
+Error rate: 0.001779 / pix
+Running img 127
+Out of 24969216 pixels...
+Max of differences: 1
+Sum of differences: 45169
+Error rate: 0.001809 / pix
+Running img 128
+Out of 25165824 pixels...
+Max of differences: 1
+Sum of differences: 44518
+Error rate: 0.001769 / pix
