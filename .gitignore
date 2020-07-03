@@ -1,0 +1,5 @@
+# Object files
+B/obj/
+C/obj/
+D/obj/
+*.o
